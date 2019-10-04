@@ -7,6 +7,7 @@ const PlacarContainer = () => {
         <div className = "PlacarContainer">
            <Placar time="Front"/>
            <Placar time="Back"/>
+           <Placar time ="Booststrap"/>
          </div>
     )
 }
